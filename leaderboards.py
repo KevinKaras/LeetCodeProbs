@@ -1,6 +1,6 @@
-// example too messy link to problem here
+# // example too messy link to problem here
 
-//  https://www.hackerrank.com/challenges/bomber-man/problem
+# //  https://www.hackerrank.com/challenges/bomber-man/problem
 
 
 def afterDetonation(List,Row,Col):
@@ -32,4 +32,4 @@ else:printList(List,Row)
 
 
 
-#  DNF DNF DNF DNF
+#  My solution was messy, i enjoy this solution more so im going to keep it.
